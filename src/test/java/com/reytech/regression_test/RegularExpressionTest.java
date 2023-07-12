@@ -12,7 +12,7 @@ public class RegularExpressionTest
     /**
      * Rigorous Test :-)
      */      
-	@Test
+	  @Test
     public void txtで終わるパターンに一致するかを検証するテスト()
     {
     	String pattern = "^.+\\.txt$";
